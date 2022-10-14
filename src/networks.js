@@ -1,13 +1,13 @@
 module.exports = {
     qtum: {
-        messagePrefix: '\x15Qtum Signed Message:\n',
-        bech32: 'qc',
+        messagePrefix: '\x15Arielcoin Signed Message:\n',
+        bech32: 'arl',
         bip32: {
             public: 0x0488b21e,
             private: 0x0488ade4
         },
         pubKeyHash: 0x3a,
-        scriptHash: 0x32,
+        scriptHash: 0x46,
         wif: 0x80
     },
     qtum_testnet: {
