@@ -7,7 +7,7 @@ module.exports = {
             private: 0x0488ade4
         },
         pubKeyHash: 0x3a,
-        scriptHash: 0x46,
+        scriptHash: 0x17,
         wif: 0x80
     },
     qtum_testnet: {
